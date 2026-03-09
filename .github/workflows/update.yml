@@ -28,5 +28,8 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add rtmklik_all.xml
-          git commit -m "Update EPG"
+          git commit -m "Update EPG" || echo "No changes to commit"
+          git pull --rebase
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
