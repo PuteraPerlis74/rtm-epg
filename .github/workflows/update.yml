@@ -1,0 +1,32 @@
+name: Update RTM EPG
+
+on:
+  schedule:
+    - cron: '35 0 * * *'   # auto jalan setiap hari jam 12:35 pagi Malaysia
+  workflow_dispatch:       # boleh run manual juga
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run script
+        run: python update_epg.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add rtmklik_all.xml
+          git commit -m "Update EPG"
+          git push
