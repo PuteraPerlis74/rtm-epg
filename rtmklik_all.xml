@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="DIY-EPG">
   <channel id="TV1">
     <display-name>TV1</display-name>
@@ -6,43 +5,82 @@
   <channel id="TV2">
     <display-name>TV2</display-name>
   </channel>
-  <channel id="TV OKEY">
-    <display-name>TV OKEY</display-name>
+  <channel id="Okey">
+    <display-name>Okey</display-name>
   </channel>
-  <channel id="BERITA RTM">
-    <display-name>BERITA RTM</display-name>
+  <channel id="BeritaRTM">
+    <display-name>BeritaRTM</display-name>
   </channel>
-  <channel id="SUKAN RTM">
-    <display-name>SUKAN RTM</display-name>
+  <channel id="MuzikAktif">
+    <display-name>MuzikAktif</display-name>
   </channel>
-  <channel id="TV6">
-    <display-name>TV6</display-name>
+  <channel id="Sports">
+    <display-name>Sports</display-name>
   </channel>
-  <channel id="DEWAN NEGARA">
-    <display-name>DEWAN NEGARA</display-name>
+  <channel id="Parlimen">
+    <display-name>Parlimen</display-name>
   </channel>
-  <channel id="DEWAN RAKYAT">
-    <display-name>DEWAN RAKYAT</display-name>
+  <channel id="RadioKlasik">
+    <display-name>RadioKlasik</display-name>
   </channel>
-  <channel id="ROLL">
-    <display-name>ROLL</display-name>
+  <channel id="NASIONALfm">
+    <display-name>NASIONALfm</display-name>
   </channel>
-  <channel id="SNAP">
-    <display-name>SNAP</display-name>
+  <channel id="AiFM">
+    <display-name>AiFM</display-name>
   </channel>
-  <channel id="APETITO">
-    <display-name>APETITO</display-name>
+  <channel id="TraxxFM">
+    <display-name>TraxxFM</display-name>
   </channel>
-  <channel id="LEAD">
-    <display-name>LEAD</display-name>
+  <channel id="MinnalFM">
+    <display-name>MinnalFM</display-name>
   </channel>
-  <channel id="AURA">
-    <display-name>AURA</display-name>
+  <channel id="KLfm">
+    <display-name>KLfm</display-name>
   </channel>
-  <channel id="FITRAH">
-    <display-name>FITRAH</display-name>
+  <channel id="AsyikFM">
+    <display-name>AsyikFM</display-name>
   </channel>
-  <channel id="JR.">
-    <display-name>JR.</display-name>
+  <channel id="Vfm">
+    <display-name>Vfm</display-name>
+  </channel>
+  <channel id="WaiFM">
+    <display-name>WaiFM</display-name>
+  </channel>
+  <channel id="PerlisFM">
+    <display-name>PerlisFM</display-name>
+  </channel>
+  <channel id="KedahFM">
+    <display-name>KedahFM</display-name>
+  </channel>
+  <channel id="KelantanFM">
+    <display-name>KelantanFM</display-name>
+  </channel>
+  <channel id="TerengganuFM">
+    <display-name>TerengganuFM</display-name>
+  </channel>
+  <channel id="PahangFM">
+    <display-name>PahangFM</display-name>
+  </channel>
+  <channel id="JohorFM">
+    <display-name>JohorFM</display-name>
+  </channel>
+  <channel id="MelakaFM">
+    <display-name>MelakaFM</display-name>
+  </channel>
+  <channel id="NegeriSembilanFM">
+    <display-name>NegeriSembilanFM</display-name>
+  </channel>
+  <channel id="SelangorFM">
+    <display-name>SelangorFM</display-name>
+  </channel>
+  <channel id="SarawakFM">
+    <display-name>SarawakFM</display-name>
+  </channel>
+  <channel id="SabahFM">
+    <display-name>SabahFM</display-name>
+  </channel>
+  <channel id="LabuanFM">
+    <display-name>LabuanFM</display-name>
   </channel>
 </tv>
