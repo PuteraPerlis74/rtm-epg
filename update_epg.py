@@ -9,14 +9,14 @@ channels = {
     "BERITA RTM": "https://rtmklik.rtm.gov.my/beritartm",
     "SUKAN RTM": "https://rtmklik.rtm.gov.my/live/sukanrtm",
     "TV6": "https://rtmklik.rtm.gov.my/live/tv6",
-    "DEWAN NEGARA": "https://rtmklik.rtm.gov.my/live/dewannegara"
-    "DEWAN RAKYAT": "https://rtmklik.rtm.gov.my/live/dewanrakyat"
-    "ROLL": "https://rtmklik.rtm.gov.my/live/roll"
-    "SNAP": "https://rtmklik.rtm.gov.my/live/snap"
-    "APETITO": "https://rtmklik.rtm.gov.my/live/apetito"
-    "LEAD": "https://rtmklik.rtm.gov.my/live/lead"
-    "AURA": "https://rtmklik.rtm.gov.my/live/aura"
-    "FITRAH": "https://rtmklik.rtm.gov.my/live/fitrah"
+    "DEWAN NEGARA": "https://rtmklik.rtm.gov.my/live/dewannegara",
+    "DEWAN RAKYAT": "https://rtmklik.rtm.gov.my/live/dewanrakyat", 
+    "ROLL": "https://rtmklik.rtm.gov.my/live/roll", 
+    "SNAP": "https://rtmklik.rtm.gov.my/live/snap", 
+    "APETITO": "https://rtmklik.rtm.gov.my/live/apetito", 
+    "LEAD": "https://rtmklik.rtm.gov.my/live/lead", 
+    "AURA": "https://rtmklik.rtm.gov.my/live/aura", 
+    "FITRAH": "https://rtmklik.rtm.gov.my/live/fitrah", 
     "JR.": "https://rtmklik.rtm.gov.my/live/jr."
 }
 
