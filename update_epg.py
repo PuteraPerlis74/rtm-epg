@@ -3,22 +3,13 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 channels = {
-    "TV1": "https://rtmklik.rtm.gov.my/tv1",
-    "TV2": "https://rtmklik.rtm.gov.my/tv2",
-    "TV OKEY": "https://rtmklik.rtm.gov.my/tvokey",
-    "BERITA RTM": "https://rtmklik.rtm.gov.my/beritartm",
-    "SUKAN RTM": "https://rtmklik.rtm.gov.my/live/sukanrtm",
-    "TV6": "https://rtmklik.rtm.gov.my/live/tv6",
-    "RTM ASEAN": "https://rtmklik.rtm.gov.my/live/rtmasean"
-    "DEWAN NEGARA": "https://rtmklik.rtm.gov.my/live/dewannegara"
-    "DEWAN RAKYAT": "https://rtmklik.rtm.gov.my/live/dewanrakyat"
-    "ROLL": "https://rtmklik.rtm.gov.my/live/roll"
-    "SNAP": "https://rtmklik.rtm.gov.my/live/snap"
-    "APETITO": "https://rtmklik.rtm.gov.my/live/apetito"
-   "LEAD": "https://rtmklik.rtm.gov.my/live/lead"
-   "AURA": "https://rtmklik.rtm.gov.my/live/aura"
-   "FITRAH": "https://rtmklik.rtm.gov.my/live/fitrah"
-   "JR.": "https://rtmklik.rtm.gov.my/live/jr."
+    "RTM_TV1": "https://rtmklik.rtm.gov.my/tv1",
+    "RTM_TV2": "https://rtmklik.rtm.gov.my/tv2",
+    "RTM_Okey": "https://rtmklik.rtm.gov.my/tvokey",
+    "RTM_Berita": "https://rtmklik.rtm.gov.my/beritartm",
+    "RTM_MuzikAktif": "https://rtmklik.rtm.gov.my/muzikaktif",
+    "RTM_Sports": "https://rtmklik.rtm.gov.my/sukan",
+    "RTM_Parlimen": "https://rtmklik.rtm.gov.my/parlimen"
 }
 
 xmltv = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="DIY-EPG">\n'
