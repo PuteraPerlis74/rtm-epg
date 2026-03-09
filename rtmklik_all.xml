@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="DIY-EPG">
-  <channel id="RTM_TV1">
-    <display-name>RTM TV1</display-name>
+  <channel id="TV1">
+    <display-name>TV1</display-name>
   </channel>
-  <channel id="RTM_TV2">
-    <display-name>RTM TV2</display-name>
+  <channel id="TV2">
+    <display-name>TV2</display-name>
   </channel>
-  <channel id="RTM_Okey">
-    <display-name>RTM Okey</display-name>
+  <channel id="TV OKEY">
+    <display-name>TV OKEY</display-name>
   </channel>
-  <channel id="RTM_Berita">
-    <display-name>RTM Berita</display-name>
+  <channel id="BERITA RTM">
+    <display-name>BERITA RTM</display-name>
   </channel>
-  <channel id="RTM_MuzikAktif">
-    <display-name>RTM MuzikAktif</display-name>
+  <channel id="SUKAN RTM">
+    <display-name>SUKAN RTM</display-name>
   </channel>
-  <channel id="RTM_Sports">
-    <display-name>RTM Sports</display-name>
+  <channel id="TV6">
+    <display-name>TV6</display-name>
   </channel>
-  <channel id="RTM_Parlimen">
-    <display-name>RTM Parlimen</display-name>
+  <channel id="DEWAN NEGARA">
+    <display-name>DEWAN NEGARA</display-name>
+  </channel>
+  <channel id="DEWAN RAKYAT">
+    <display-name>DEWAN RAKYAT</display-name>
+  </channel>
+  <channel id="ROLL">
+    <display-name>ROLL</display-name>
+  </channel>
+  <channel id="SNAP">
+    <display-name>SNAP</display-name>
+  </channel>
+  <channel id="APETITO">
+    <display-name>APETITO</display-name>
+  </channel>
+  <channel id="LEAD">
+    <display-name>LEAD</display-name>
+  </channel>
+  <channel id="AURA">
+    <display-name>AURA</display-name>
+  </channel>
+  <channel id="FITRAH">
+    <display-name>FITRAH</display-name>
+  </channel>
+  <channel id="JR.">
+    <display-name>JR.</display-name>
   </channel>
 </tv>
