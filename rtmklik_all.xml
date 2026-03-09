@@ -3,4 +3,22 @@
   <channel id="RTM_TV1">
     <display-name>RTM TV1</display-name>
   </channel>
+  <channel id="RTM_TV2">
+    <display-name>RTM TV2</display-name>
+  </channel>
+  <channel id="RTM_Okey">
+    <display-name>RTM Okey</display-name>
+  </channel>
+  <channel id="RTM_Berita">
+    <display-name>RTM Berita</display-name>
+  </channel>
+  <channel id="RTM_MuzikAktif">
+    <display-name>RTM MuzikAktif</display-name>
+  </channel>
+  <channel id="RTM_Sports">
+    <display-name>RTM Sports</display-name>
+  </channel>
+  <channel id="RTM_Parlimen">
+    <display-name>RTM Parlimen</display-name>
+  </channel>
 </tv>
