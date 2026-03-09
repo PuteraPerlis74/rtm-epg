@@ -13,7 +13,7 @@ def scrape_tv1(f):
     f.write('  </channel>\n')
 
     # cari rancangan (ubah ikut struktur sebenar RTM Klik)
-    programmes = soup.find_all("div", class_="programme-item")
+    programmes = soup.find_all("div", class_="schedule-item")
 
     for p in programmes:
         title = p.find("h3").text.strip()
